@@ -1,6 +1,6 @@
 Feature:
 
-@businessDomain2
+@businessdomain
 
 Scenario: successful scenario
 Given a system state

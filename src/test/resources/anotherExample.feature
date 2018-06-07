@@ -1,6 +1,5 @@
-Another Example Story
+Feature:
 
-Meta:
 @businessDomain2
 
 Scenario: successful scenario
